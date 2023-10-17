@@ -1,0 +1,10 @@
+albumentations
+fastapi
+numpy
+opencv-python
+python-multipart
+pytorch-lightning==1.5.10
+six
+torch==1.10
+torchvision
+uvicorn

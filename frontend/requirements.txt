@@ -1,0 +1,6 @@
+opencv-python
+pandas
+plotly
+requests
+requests-toolbelt
+streamlit
